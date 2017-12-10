@@ -1,0 +1,48 @@
+{
+  "language": [
+    {
+      "duplicationSettings": true,
+      "value": {
+        "eng": "JLPT N{{level}}",
+        "jpn": "日本語能力試験 N{{level}}"
+      },
+      "start": 1,
+      "end": 5,
+      "replacements": {
+        "level": {"variable": "inc"}
+      }
+    },
+    {
+      "duplicationSettings": true,
+      "value": {
+        "eng": "JLPT {{level}}",
+        "jpn": "日本語能力試験{{level}}級"
+      },
+      "start": 1,
+      "end": 4,
+      "replacements": {
+        "level": {"variable": "inc"}
+      }
+    },
+    {
+      "duplicationSettings": true,
+      "value": {
+        "eng": "Kanji kentei level {{level}}",
+        "jpn": "漢字能力検定{{level}}級"
+      },
+      "start": 1,
+      "end": 10,
+      "replacements": {
+        "level": {"variable": "inc"}
+      }
+    },
+    {
+      "eng": "Kanji kentei semi level 2",
+      "jpn": "漢字能力検定準2級"
+    },
+    {
+      "eng": "Kanji kentei semi level 1",
+      "jpn": "漢字能力検定準1級"
+    }
+  ]
+}

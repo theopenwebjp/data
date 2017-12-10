@@ -1,0 +1,76 @@
+{
+  "other": [
+    
+  ],
+  "language": {
+    "language": [
+      {
+        "jpn": "日本語",
+        "eng": "japanese"
+      },
+      {
+        "jpn": "英語",
+        "eng": "English"
+      }
+    ],
+    "other": [
+      {
+        "jpn": "英語先生",
+        "eng": "English teaching"
+      },
+      {
+        "jpn": "和英翻訳",
+        "eng": "japanese to English translation"
+      }
+    ]
+  },
+  "computer": {
+    "language": [
+      "Java",
+      "C",
+      "C++",
+      "Python",
+      "C#",
+      "Visual Basic .NET",
+      "JavaScript",
+      "PHP",
+      "Perl",
+      "Assembly language",
+      "Ruby",
+      "Swift",
+      "Delphi/Object Pascal",
+      "R",
+      "Go",
+      "Visual Basic",
+      "MATLAB",
+      "Objective-C",
+      "Scratch",
+      "PL/SQL",
+      "HTML",
+      "CSS",
+      "JSX"
+    ],
+    "data": [
+      "XML",
+      "json",
+      "ini",
+      "csv"
+    ],
+    "os": [
+      "Windows",
+      "Mac",
+      "Linux",
+      "Android",
+      "iOS"
+    ],
+    "program": [
+      "Excel",
+      "Word",
+      "Power Point",
+      "Brackets",
+      "Chrome",
+      "Firefox",
+      "Internet Explorer"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    'symbol': 'b',
+    'name': 'bit'
+  },
+  {
+    'symbol': 'B',
+    'name': 'byte'
+  }
+]

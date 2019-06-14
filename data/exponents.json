@@ -1,0 +1,52 @@
+[
+    {
+        "symbol": "da",
+        "name": "deca",
+        "exponent": 1
+    },
+    {
+        "symbol": "h",
+        "name": "hecto",
+        "exponent": 2
+    },
+    {
+        "symbol": "K",
+        "name": "kilo",
+        "exponent": 3
+    },
+    {
+        "symbol": "M",
+        "name": "mega",
+        "exponent": 6
+    },
+    {
+        "symbol": "G",
+        "name": "giga",
+        "exponent": 9
+    },
+    {
+        "symbol": "T",
+        "name": "tera",
+        "exponent": 12
+    },
+    {
+        "symbol": "P",
+        "name": "peta",
+        "exponent": 15
+    },
+    {
+        "symbol": "E",
+        "name": "exa",
+        "exponent": 18
+    },
+    {
+        "symbol": "Z",
+        "name": "zetta",
+        "exponent": 21
+    },
+    {
+        "symbol": "Y",
+        "name": "yotta",
+        "exponent": 24
+    }
+]

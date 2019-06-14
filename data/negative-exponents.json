@@ -1,0 +1,52 @@
+[
+    {
+        "symbol": "d",
+        "name": "deci",
+        "exponent": -1
+    },
+    {
+        "symbol": "c",
+        "name": "centi",
+        "exponent": -2
+    },
+    {
+        "symbol": "m",
+        "name": "milli",
+        "exponent": -3
+    },
+    {
+        "symbol": "μ",
+        "name": "micro",
+        "exponent": -6
+    },
+    {
+        "symbol": "n",
+        "name": "nano",
+        "exponent": -9
+    },
+    {
+        "symbol": "p",
+        "name": "pico",
+        "exponent": -12
+    },
+    {
+        "symbol": "f",
+        "name": "femto",
+        "exponent": -15
+    },
+    {
+        "symbol": "a",
+        "name": "atto",
+        "exponent": -18
+    },
+    {
+        "symbol": "z",
+        "name": "zepto",
+        "exponent": -21
+    },
+    {
+        "symbol": "y",
+        "name": "yocto",
+        "exponent": -24
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "symbol": "Ki",
+        "name": "kibi",
+        "exponent": 1
+    },
+    {
+        "symbol": "Mi",
+        "name": "mebi",
+        "exponent": 2
+    },
+    {
+        "symbol": "Gi",
+        "name": "gibi",
+        "exponent": 3
+    },
+    {
+        "symbol": "Ti",
+        "name": "tebi",
+        "exponent": 4
+    },
+    {
+        "symbol": "Pi",
+        "name": "pebi",
+        "exponent": 5
+    },
+    {
+        "symbol": "Ei",
+        "name": "exbi",
+        "exponent": 6
+    },
+    {
+        "symbol": "Zi",
+        "name": "zebi",
+        "exponent": 7
+    },
+    {
+        "symbol": "Yi",
+        "name": "yobi",
+        "exponent": 8
+    }
+]

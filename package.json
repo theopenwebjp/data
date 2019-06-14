@@ -1,0 +1,18 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "Collection of open source data.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldingdamien/data.git"
+  },
+  "keywords": [],
+  "author": "Damien Golding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goldingdamien/data/issues"
+  },
+  "homepage": "https://github.com/goldingdamien/data#readme"
+}

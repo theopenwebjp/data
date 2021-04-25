@@ -1,0 +1,14 @@
+{
+    "manual": [{
+        "name": "nuxt",
+        "globals": {
+            "__NUXT__": {
+                "url": "https://nuxtjs.org/api/context/"
+            },
+            "$nuxt": {
+                "description": "Helper object. Seems to be a Vue or Vue inherited object",
+                "url": "https://nuxtjs.org/api/$nuxt/"
+            }
+        }
+    }]
+}

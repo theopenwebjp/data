@@ -1,18 +1,22 @@
 {
-  "name": "data",
+  "name": "@theopenweb/data",
   "version": "1.0.0",
   "description": "Collection of open source data.",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goldingdamien/data.git"
+    "url": "git+https://github.com/theopenwebjp/data.git"
   },
-  "keywords": [],
-  "author": "Damien Golding",
+  "author": "The Open Web <noreply@theopenweb.jp> (https://theopenweb.jp)",
+  "contributors": [
+      "Damien Golding <noreply@damiengolding.com> (https://damiengolding.com)"
+  ],
+  "keywords": ["OSS data", "opendata", "json"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/goldingdamien/data/issues"
+    "url": "https://github.com/theopenwebjp/data/issues"
   },
-  "homepage": "https://github.com/goldingdamien/data#readme"
+  "homepage": "https://github.com/theopenwebjp/data#readme",
+  "private": false
 }
